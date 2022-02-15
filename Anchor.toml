@@ -1,0 +1,18 @@
+[features]
+seeds = false
+[programs.localnet]
+counter_anchor = "96QBNcuHuQv1x1q1feJNFDckf6yNEYHcVdkh8QFvjT3i"
+[programs.devnet]
+counter_anchor = "96QBNcuHuQv1x1q1feJNFDckf6yNEYHcVdkh8QFvjT3i"
+[programs.testnet]
+counter_anchor = "96QBNcuHuQv1x1q1feJNFDckf6yNEYHcVdkh8QFvjT3i"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = ""
+
+[scripts]
+test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"
