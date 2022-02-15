@@ -25,7 +25,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
       - name: Install Solana CLI
-        run: sh -c "$(curl -sSfL https://release.solana.com/v1.9.6/install)"
+        run: sh -c "$(curl -sSfL https://release.solana.com/v1.9.6/install)" && export PATH="/home/runner/.local/share/solana/install/active_release/bin:$PATH"
       - name: Install Anchor CLI
         run: npm i -g @project-serum/anchor-cli
       - name: Compile Solana Program
