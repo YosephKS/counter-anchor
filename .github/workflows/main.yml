@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
+name: Anchor Program Unit Testing
 
 # Controls when the workflow will run
 on:
@@ -24,5 +24,7 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - name: Install Anchor CLI
+        run: npm i -g @project-serum/anchor-cli
       - name: Test Solana Program
         run: anchor test
