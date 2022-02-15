@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/yosephks/Documents/GitHub/counter-anchor/target/debug/build/typenum-83246b3f0ccd9209/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/yosephks/Documents/GitHub/counter-anchor/target/debug/build/typenum-83246b3f0ccd9209/out/op.rs

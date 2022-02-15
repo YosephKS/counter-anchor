@@ -1,0 +1,10 @@
+/Users/yosephks/Documents/GitHub/counter-anchor/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-d09aa07394493102.rmeta: /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/lib.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_digester.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_example.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/hash.rs
+
+/Users/yosephks/Documents/GitHub/counter-anchor/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-d09aa07394493102.rlib: /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/lib.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_digester.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_example.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/hash.rs
+
+/Users/yosephks/Documents/GitHub/counter-anchor/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-d09aa07394493102.d: /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/lib.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_digester.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_example.rs /Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/hash.rs
+
+/Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/lib.rs:
+/Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_digester.rs:
+/Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/abi_example.rs:
+/Users/yosephks/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.9.6/src/hash.rs:
